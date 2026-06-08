@@ -78,6 +78,7 @@ del obj
 Thus the program demonstrates how to implement a destructor in Python using a simple class has been executed successfully.
 
 
+  
 ## Result
 
 Thus the program demonstrates how to implement a destructor in Python using a simple class has been executed successfully.
